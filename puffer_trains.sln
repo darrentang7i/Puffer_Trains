@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "puffer_trains", "puffer_trains\puffer_trains.vcxproj", "{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Debug|x64.ActiveCfg = Debug|x64
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Debug|x64.Build.0 = Debug|x64
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Debug|x86.Build.0 = Debug|Win32
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Release|x64.ActiveCfg = Release|x64
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Release|x64.Build.0 = Release|x64
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Release|x86.ActiveCfg = Release|Win32
+		{84F4DA87-B38C-455A-8572-B1BF13BFF1AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D26EA908-3837-42DD-B353-6D75B8A13A9A}
+	EndGlobalSection
+EndGlobal
